@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>美東廣東話新聞</title>
+    <link>https://cka4913.github.io/eastcoast-cantonese-news-podcast/</link>
+    <language>zh-HK</language>
+    <copyright>© 2026 美東廣東話新聞</copyright>
+    <description>美東廣東話新聞，整理 Maryland、Washington DC 及美國重要消息。</description>
+    <itunes:author>美東廣東話新聞</itunes:author>
+    <itunes:summary>美東廣東話新聞，整理 Maryland、Washington DC 及美國重要消息。</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="News"/>
+  </channel>
+</rss>
