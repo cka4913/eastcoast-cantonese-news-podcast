@@ -12,5 +12,19 @@
     <itunes:summary>美東廣東話新聞，整理 Maryland、Washington DC 及美國重要消息。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News"/>
+  
+    <item>
+      <title>美東廣東話新聞｜試播集｜20260707-15</title>
+      <description><![CDATA[本集為試播版本，整理過去六小時 Maryland、Washington DC 及美國新聞重點，以廣東話簡短播報。]]></description>
+      <content:encoded><![CDATA[本集為試播版本，整理過去六小時 Maryland、Washington DC 及美國新聞重點，以廣東話簡短播報。]]></content:encoded>
+      <pubDate>Tue, 07 Jul 2026 19:44:30 GMT</pubDate>
+      <guid isPermaLink="false">gdrive-1_u_sIbYHGVvhBpEVk_aXO1HB4Wi1uNCn</guid>
+      <link>https://drive.google.com/file/d/1_u_sIbYHGVvhBpEVk_aXO1HB4Wi1uNCn/view</link>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_u_sIbYHGVvhBpEVk_aXO1HB4Wi1uNCn" length="5055020" type="audio/mpeg"/>
+      <itunes:title>美東廣東話新聞｜試播集｜20260707-15</itunes:title>
+      <itunes:summary><![CDATA[本集為試播版本，整理過去六小時 Maryland、Washington DC 及美國新聞重點，以廣東話簡短播報。]]></itunes:summary>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
   </channel>
 </rss>
